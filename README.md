@@ -6,9 +6,6 @@ Creating an API with four endpoints based on the mini challenges from 5-7
 Peer Reviewer: Aidan Youanthan
 Peer Review: Everything but the reverse word functions properly, I was getting a 500 code on it but everything else looks good. I will say that there are some parts in the madlib that need filling out where its just ____ but other than that it works good. Good Job!
 
-
-
-
 List Needed to complete Mini Challenge
 Endpoints:
 1. MadLib: create an endpoint that accepts multiple inputs.  Output should be a story based on those values.
