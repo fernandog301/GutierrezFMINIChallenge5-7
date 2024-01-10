@@ -10,9 +10,9 @@ public class ReverseItAlphanumericService : IReverseItAlphanumericService
     {
         string word1 = "";
 
-        for (int i = input.Length; i >= 0; i--)
+        for (int i = input.Length -1; i >= 0; i--)
         {
-            word1 = word1 + input[i-1];
+            word1 += input[i];
         }
         return $"the reversed string is {word1}";
     }
