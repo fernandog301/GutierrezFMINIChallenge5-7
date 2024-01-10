@@ -1,9 +1,10 @@
 Fernando Gutierrez 
 1/10/2024
 description:
-Creating an APi with four endpoints based on the mini challenges from 5-7
+Creating an API with four endpoints based on the mini challenges from 5-7
 
-
+Peer Reviewer: Aidan Youanthan
+Peer Review: Everything but the reverse word functions properly, I was getting a 500 code on it but everything else looks good. I will say that there are some parts in the madlib that need filling out where its just ____ but other than that it works good. Good Job!
 
 
 
